@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mirwais Samadi 
 
-<!--
-**mirwaissamadi/mirwaissamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer and Computer Science graduate from Afghanistan.  
+I enjoy building modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+## Frontend Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+
+## Currently Learning
+
+- React
+- UI/UX Design
+- Responsive Web Development
+
+## Final Year Project
+
+ Government Decree Mobile Application
+
+For my university final project, I developed a Government Decree Mobile Application using:
+
+- React Native
+- Node.js
+- Express.js
+- MongoDB
+
+The application included frontend development, backend API integration, and database management.
+
+## Current Project
+
+ Samadi Dairy Website
+
+A modern responsive dairy products website built using React.js and modern UI design principles.
+
+## Goals
+
+- Become a professional Frontend Developer
+- Build modern web applications
+- Improve UI/UX skills
+- Create professional portfolio projects
+
+## Contact
+
+GitHub: mirwaissamadi
